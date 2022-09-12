@@ -1,0 +1,9 @@
+.navigation{
+    height: 50px;
+    width: 50px;
+    font-size: 2rem;
+    background-color: #fff;
+    color: #76004D;
+    display: flex;
+    place-items: center;
+}
